@@ -1,0 +1,4 @@
+proxies:
+- { name: 蒙古-优化, type: vmess, server: u.mjmjmjmj.cyou, port: '16631', uuid: 038b934e-c539-4cf1-8a26-7567296097ed, alterId: 0, cipher: auto, udp: true, network: ws }
+- { name: 蒙古-优化2, type: vmess, server: 120-241-236-214.nhost.00cdn.com, port: '16631', uuid: 038b934e-c539-4cf1-8a26-7567296097ed, alterId: 0, cipher: auto, udp: true, network: ws }
+- { name: 蒙古-优化3, type: vmess, server: t.mjmjmjmj.cyou, port: '16631', uuid: 038b934e-c539-4cf1-8a26-7567296097ed, alterId: 0, cipher: auto, udp: true, network: ws }
